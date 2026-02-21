@@ -27,7 +27,7 @@ Each of the "Execute" means a new process creation, su internally uses sockets t
 
 The disadvantages of this type of method are:
 
-1. **Extremely slow**
+1. **Extreme Luis slow**
 2. Need to process the text to get the result
 3. Features are subject to available commands
 4. Even if adb has sufficient permissions, the app requires root privileges to run
